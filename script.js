@@ -43,14 +43,13 @@ function checkGuess() {
     }
 
     else if (guess < randomNumber) {
-        message.textContent = "📉 Too Low!";
+        message.textContent = "Number Too Low!";
     }
 
     else {
-        message.textContent = "📈 Too High!";
+        message.textContent = "Number Too High!";
     }
 
 }
 
 
-//plaksha
