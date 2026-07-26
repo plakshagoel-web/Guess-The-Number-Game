@@ -51,3 +51,6 @@ function checkGuess() {
     }
 
 }
+
+
+//plaksha
