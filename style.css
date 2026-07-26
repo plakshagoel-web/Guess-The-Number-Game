@@ -1,0 +1,64 @@
+body {
+    background-image: url("download.jpg");
+    background-size: 400px;
+    background-repeat: repeat;
+   
+  
+    font-family: "Pixelify Sans", sans-serif;
+
+    text-align: center;
+    color: white;
+}
+.magic{
+    background-image: url("dayimg.jpg");
+}
+.star{
+    position: absolute;
+
+}
+
+h1 {
+    .dragon:hover
+    {
+        transform: rotate(10deg);
+    }
+
+    align-content: center;
+    text-shadow:
+     0 0 30px greenyellow,
+     0 0 30px rgb(237, 255, 192),
+     0 0 30px rgb(128, 128, 0);
+    margin-top: 60px;
+}
+
+input {
+    padding: 10px;
+    border-radius: 8px;
+}
+
+button {
+    transition: 0.3s;
+    padding: 10px 15px;
+    border-radius: 8px;
+    cursor: pointer;
+}
+button:hover{
+    background-color:#e1ff5c;
+   box-shadow: 0 0 20px gold;
+
+transform:scale(1.1);
+}
+
+p {
+    margin-top: 20px;
+    font-size: 20px;
+}
+.card{
+    background: rgba(255, 255, 255, 0.1);
+    backdrop-filter: blur(1px);
+    border: 1px solid rgba(255, 255, 255, 0.3);
+    box-shadow: 0 8px 32px rgba(0,0,0, 0.3);
+    padding: 20px;
+    height: 500px;
+    border-radius: 5px;
+}
